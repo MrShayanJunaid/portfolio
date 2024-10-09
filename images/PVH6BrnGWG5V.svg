@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .text { 
+      font-size: 14px; 
+      fill: white; /* Font color */
+      font-family: 'Poppins', sans-serif; /* Use the font here */
+      font-weight: bold; /* Keeping it bold */
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">YOUR LOGO</text>
+</svg>
